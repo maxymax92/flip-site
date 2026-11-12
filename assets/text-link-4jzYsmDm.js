@@ -1,0 +1,1 @@
+import{f as e}from"./button-CCgi8A-h.js";var t=e({base:`focus-ring rounded-sm text-label-md text-accent underline-offset-4 hover:underline`});export{t};

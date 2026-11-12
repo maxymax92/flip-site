@@ -1,0 +1,1 @@
+import{Qt as e,tn as t}from"./button-CCgi8A-h.js";import{n,r,t as i}from"./index-CNt6j-K1.js";var a=e(),o=t();function s(){let e=(0,a.c)(2),{screen:t}=i.useParams();if(!r(t))throw Error(`The reference screen ${t} is unknown`);let s=n[t].screen,c;return e[0]===s?c=e[1]:(c=(0,o.jsx)(s,{}),e[0]=s,e[1]=c),c}export{s as component};

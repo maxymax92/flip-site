@@ -1,1 +1,0 @@
-import{en as e,f as t}from"./notice-BScj6jra.js";var n=e();function r({raised:e=!1,interactive:r=!1,className:i,children:a}){return(0,n.jsx)(`div`,{className:t(`rounded-xl border border-default bg-raised`,e&&`shadow-lg`,r&&`transition duration-base ease-out hover:-translate-y-1 hover:shadow-lg`,i),children:a})}export{r as t};

@@ -1,0 +1,1 @@
+import{At as e,Mt as t,kt as n}from"./hooks-BFWJ3ULX.js";function r(r,i){return n({...r,enabled:!0,suspense:!0,throwOnError:e,placeholderData:void 0},t,i)}export{r as t};

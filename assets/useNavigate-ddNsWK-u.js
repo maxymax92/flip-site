@@ -1,0 +1,1 @@
+import{Ct as e}from"./segmented-DY3HTWB4.js";import{in as t,nn as n}from"./button-CCgi8A-h.js";var r=t(n(),1);function i(t){let n=e();return r.useCallback(e=>n.navigate({...e,from:e.from??t?.from}),[t?.from,n])}export{i as t};

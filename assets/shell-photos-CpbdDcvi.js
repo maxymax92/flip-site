@@ -1,1 +1,0 @@
-var e=`/assets/edwardian-semis-C95BnaEC.avif`,t=`/assets/hillside-terrace-DE7EPQbY.avif`,n=`/assets/wisteria-cottage-DTJ1N8k4.avif`,r=`/assets/yellow-brick-bays-CJWafQ1M.avif`,i={signIn:r,signUp:n,resetPassword:e,invitation:t,contact:r,openApp:r};export{i as t};
