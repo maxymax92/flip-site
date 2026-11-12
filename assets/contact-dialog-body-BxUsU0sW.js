@@ -1,0 +1,1 @@
+import{Zt as e,en as t}from"./notice-BScj6jra.js";import{n,t as r}from"./contact-form-DLA2G53r.js";var i=e(),a=t();function o(e){let t=(0,i.c)(2),o=n(e),s;return t[0]===o?s=t[1]:(s=(0,a.jsx)(r,{...o}),t[0]=o,t[1]=s),s}export{o as default};

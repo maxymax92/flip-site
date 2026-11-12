@@ -1,1 +1,0 @@
-import{k as e,sr as t}from"./header-BfIoP1ki.js";var n=t();function r({raised:t=!1,interactive:r=!1,className:i,children:a}){return(0,n.jsx)(`div`,{className:e(`rounded-xl border border-default bg-raised`,t&&`shadow-lg`,r&&`transition duration-base ease-out hover:-translate-y-1 hover:shadow-lg`,i),children:a})}export{r as t};

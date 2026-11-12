@@ -1,0 +1,1 @@
+import{Ot as e,jt as t,kt as n}from"./hooks-CFh9kTPU.js";function r(r,i){return e({...r,enabled:!0,suspense:!0,throwOnError:n,placeholderData:void 0},t,i)}export{r as t};

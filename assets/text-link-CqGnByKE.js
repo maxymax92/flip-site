@@ -1,0 +1,1 @@
+import{d as e}from"./notice-BScj6jra.js";var t=e({base:`focus-ring rounded-sm text-label-md text-accent underline-offset-4 hover:underline`});export{t};
