@@ -1,0 +1,1 @@
+import{Co as e,Po as t,wo as n}from"./hooks-DI1wi28Y.js";function r(r,i){return e({...r,enabled:!0,suspense:!0,throwOnError:n,placeholderData:void 0},t,i)}export{r as t};

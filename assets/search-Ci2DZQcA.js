@@ -1,0 +1,1 @@
+import{Ln as e}from"./messages-DLRzruN0.js";var t=t=>e().transform(e=>t.safeParse(e).data).optional();function n(e,t){let n=new URLSearchParams;for(let[e,r]of Object.entries(t))r!==void 0&&n.set(e,r);return n.size===0?e:`${e}?${n.toString()}`}export{t as n,n as t};

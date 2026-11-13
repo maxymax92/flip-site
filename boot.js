@@ -6,12 +6,14 @@ const stored = (key) => {
   }
 }
 const root = document.documentElement
-const theme = stored('theme')
-root.dataset.theme = theme === 'dark' || (theme !== 'light' && matchMedia('(prefers-color-scheme: dark)').matches) ? 'dark' : 'light'
-for (const key of ['text', 'density', 'contrast', 'motion']) {
+const theme = localStorage.getItem('heroui-theme')
+const resolved = theme === 'dark' || (theme !== 'light' && matchMedia('(prefers-color-scheme: dark)').matches) ? 'dark' : 'light'
+root.dataset.theme = resolved
+root.classList.add(resolved)
+for (const key of ['text', 'contrast']) {
   const choice = stored(key)
   if (choice !== null && choice !== 'standard') root.dataset[key] = choice
 }
 if (stored('contrast') === null && matchMedia('(prefers-contrast: more)').matches) root.dataset.contrast = 'more'
-if (stored('motion') === null && matchMedia('(prefers-reduced-motion: reduce)').matches) root.dataset.motion = 'reduced'
+if (stored('motion') === 'reduced') root.dataset.reduceMotion = 'true'
 globalThis['__zod_globalConfig'] = { jitless: true }

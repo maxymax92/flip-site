@@ -1,0 +1,1 @@
+import{Ut as e,et as t,rt as n,st as r}from"./elements-qyIPqwla.js";function i(t){return e(t)&&`ownerSVGElement`in t}function a(e,i,a){let o=t(e)?e:r(e);return o.run(n(``,o,i,a)),o.animation}export{i as n,a as t};

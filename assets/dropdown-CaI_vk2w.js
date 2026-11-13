@@ -1,0 +1,1 @@
+import{a as e,c as t,i as n,l as r,n as i,o as a,r as o,s,t as c}from"./dropdown-BBVjPrRo.js";var l=Object.assign(e,{Root:e,Trigger:r,Popover:n,Menu:o,Section:a,Item:c,ItemIndicator:i,SubmenuIndicator:s,SubmenuTrigger:t});export{l as t};

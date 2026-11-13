@@ -1,0 +1,1 @@
+import{x as e}from"./utils-Dkosxi5G.js";import{n as t}from"./skeletons-DbjOR1R2.js";import{n}from"./clsx-Bh4F3unD.js";var r=e(),i=n();function a(){let e=(0,r.c)(1),n;return e[0]===Symbol.for(`react.memo_cache_sentinel`)?(n=(0,i.jsxs)(i.Fragment,{children:[(0,i.jsx)(`h1`,{className:`sr-only`,children:`Deal`}),(0,i.jsx)(t,{})]}),e[0]=n):n=e[0],n}export{a as t};

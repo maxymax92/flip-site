@@ -1,0 +1,1 @@
+import{t as e}from"./use-has-text-slot-B8SpWM-l.js";import{n as t}from"./clsx-Bh4F3unD.js";var n=t(),r=({children:t})=>(0,n.jsx)(e,{value:!0,children:t});export{r as t};

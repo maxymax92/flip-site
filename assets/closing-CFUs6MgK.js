@@ -1,0 +1,1 @@
+var e=e=>t=>{t||e()};export{e as t};

@@ -1,0 +1,1 @@
+import{n as e,r as t,t as n}from"./room-stripped-Bkl7GdDs.js";var r=[{src:t,title:`Kitchen`,caption:`Finished, 2 November 2026`},{src:n,title:`Front Room`,caption:`Stripped out, 14 September 2026`},{src:e,title:`Front Room`,caption:`At purchase, 3 August 2026`}];export{r as t};

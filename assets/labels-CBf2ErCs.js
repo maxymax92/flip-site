@@ -1,0 +1,1 @@
+var e={owner:`Owner`,admin:`Admin`,member:`Member`},t=e=>e.split(/\s+/u).filter(e=>e!==``).slice(0,2).map(e=>e.charAt(0).toUpperCase()).join(``);export{t as n,e as t};

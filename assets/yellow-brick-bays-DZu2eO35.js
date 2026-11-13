@@ -1,0 +1,1 @@
+var e=`/assets/yellow-brick-bays-CJWafQ1M.avif`;export{e as t};

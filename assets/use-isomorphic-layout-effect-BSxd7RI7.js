@@ -1,0 +1,1 @@
+import{o as e,r as t}from"./clsx-Bh4F3unD.js";var n=e(t(),1),r=typeof window<`u`?n.useLayoutEffect:n.useEffect;export{r as t};

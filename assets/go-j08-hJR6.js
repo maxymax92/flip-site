@@ -1,0 +1,1 @@
+import{x as e}from"./utils-Dkosxi5G.js";import{o as t}from"./useMatch-BPuF4s5u.js";var n=e();function r(){let e=(0,n.c)(2),r=t(),i;return e[0]===r?i=e[1]:(i=e=>{r.navigate({href:e})},e[0]=r,e[1]=i),i}export{r as t};

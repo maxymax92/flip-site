@@ -1,1 +1,0 @@
-import{J as e,X as t,Y as n,q as r}from"./index-CNt6j-K1.js";var i={signIn:r,signUp:e,resetPassword:t,invitation:n,contact:r};export{i as t};

@@ -1,0 +1,1 @@
+var e=`/assets/terrace-front-thumb-Co_Zi11J.avif`;export{e as t};

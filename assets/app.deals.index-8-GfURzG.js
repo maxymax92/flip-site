@@ -1,0 +1,1 @@
+import{x as e}from"./utils-Dkosxi5G.js";import{t}from"./deals-page-1JEzGfWd.js";import{t as n}from"./app.deals.index-D-45aGjd.js";import{n as r}from"./clsx-Bh4F3unD.js";var i=e(),a=r();function o(){let e=(0,i.c)(2),{stage:r}=n.useSearch(),o;return e[0]===r?o=e[1]:(o=(0,a.jsx)(t,{stageId:r}),e[0]=r,e[1]=o),o}export{o as component};

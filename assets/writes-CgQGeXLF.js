@@ -1,0 +1,1 @@
+import{Qr as e,R as t,u as n}from"./hooks-DI1wi28Y.js";import{s as r,u as i}from"./standing-DgPnXv6g.js";var a=i(`addContact`,({id:e,request:t},r)=>n(e,t,r)),o=i(`changeContact`,({id:e,...n},r)=>t(e,n,r)),s=i(`removeContact`,({id:t,version:n},r)=>e(t,{version:n},r));function c(e){r(e,a),r(e,o),r(e,s)}export{s as i,o as n,c as r,a as t};

@@ -1,0 +1,1 @@
+var e=`/assets/edwardian-semis-C95BnaEC.avif`;export{e as t};

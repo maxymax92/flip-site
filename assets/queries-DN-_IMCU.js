@@ -1,0 +1,1 @@
+import{t as e}from"./queryOptions-Dfvzj6n2.js";import{Mn as t,_n as n}from"./hooks-DI1wi28Y.js";var r=e({queryKey:n(),queryFn:({signal:e})=>t({signal:e})});export{r as t};

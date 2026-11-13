@@ -1,0 +1,1 @@
+import{r as e}from"./toast-queue-BOYPls5A.js";var t=e=>e instanceof Error?e.message:String(e);async function n(n,r,i){try{await navigator.clipboard.writeText(n),e.success(r)}catch(n){e.danger(i,{description:t(n)})}}export{t as n,n as t};

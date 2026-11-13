@@ -1,0 +1,1 @@
+var e=`https://d14t8gjtfvl5yi.cloudfront.net/api`,t=new Set([`/`,`/attribution`,`/bot`,`/privacy`]),n=e=>!t.has(e);export{n,e as t};

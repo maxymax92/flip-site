@@ -1,0 +1,1 @@
+var e=`/assets/wisteria-cottage-DTJ1N8k4.avif`;export{e as t};

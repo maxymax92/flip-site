@@ -1,0 +1,1 @@
+var e=e=>`${e} · Flip`,t=(e,t)=>({match:n})=>({meta:[{title:e},{name:`description`,content:t}],links:[{rel:`canonical`,href:`https://flipproperty.uk${n.pathname}`}]}),n=(n,r)=>t(e(n),r),r=t=>()=>({meta:[{title:e(t)},{name:`robots`,content:`noindex, nofollow`},{name:`referrer`,content:`no-referrer`}]});export{r as i,n,e as r,t};

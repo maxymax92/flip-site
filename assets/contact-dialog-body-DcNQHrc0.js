@@ -1,1 +1,0 @@
-import{Qt as e,tn as t}from"./button-CCgi8A-h.js";import{n,t as r}from"./contact-form-Bzc3Qv8z.js";var i=e(),a=t();function o(e){let t=(0,i.c)(2),o=n(e),s;return t[0]===o?s=t[1]:(s=(0,a.jsx)(r,{...o}),t[0]=o,t[1]=s),s}export{o as default};

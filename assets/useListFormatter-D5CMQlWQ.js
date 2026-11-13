@@ -1,0 +1,1 @@
+import{t as e}from"./I18nProvider-BRcbVduC.js";import{o as t,r as n}from"./clsx-Bh4F3unD.js";var r=t(n(),1);function i(t={}){let{locale:n}=e();return(0,r.useMemo)(()=>new Intl.ListFormat(n,t),[n,t])}export{i as t};

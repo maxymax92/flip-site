@@ -1,0 +1,1 @@
+import{a as e,u as t}from"./utils-Dkosxi5G.js";function n(n,r){return e(n,(e,n)=>{let i=typeof r==`function`?r(n)??``:r??``;return t(i,e??``)??``})}function r(e,t,n){return typeof e==`function`?e({...n??{},className:t}):t}export{n,r as t};

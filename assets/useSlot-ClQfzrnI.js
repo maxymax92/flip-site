@@ -1,0 +1,1 @@
+import{b as e,v as t}from"./utils-Dkosxi5G.js";import{o as n,r}from"./clsx-Bh4F3unD.js";var i=n(r(),1);function a(t=!0){let[n,r]=(0,i.useState)(t),a=(0,i.useRef)(!1),o=(0,i.useCallback)(e=>{a.current=!0,r(!!e)},[]);return e(()=>{a.current||r(!1)},[]),[o,n]}function o(e=!0){let n=t(),[r,i]=a(e);return{id:i?n:void 0,ref:r}}export{o as t};

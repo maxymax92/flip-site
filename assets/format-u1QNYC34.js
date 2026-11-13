@@ -1,0 +1,1 @@
+var e={style:`currency`,currency:`GBP`,maximumFractionDigits:0},t={style:`percent`,maximumFractionDigits:1},n={notation:`compact`,maximumFractionDigits:1},r={day:`numeric`,month:`short`},i=e=>e.split(` `).map(e=>e.charAt(0)).join(``);export{i as a,e as i,r as n,t as r,n as t};

@@ -1,0 +1,1 @@
+import{t as e}from"./Form-BzR_VohL.js";import{n as t}from"./clsx-Bh4F3unD.js";var n=t(),r=({...t})=>(0,n.jsx)(e,{...t});r.displayName=`HeroUI.Form`;var i=Object.assign(r,{Root:r});export{i as t};

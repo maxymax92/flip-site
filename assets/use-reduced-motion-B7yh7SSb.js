@@ -1,0 +1,1 @@
+import{b as e,v as t,y as n}from"./elements-qyIPqwla.js";import{o as r,r as i}from"./clsx-Bh4F3unD.js";var a=r(i(),1);function o(){!n.current&&t();let[r]=(0,a.useState)(e.current);return r}export{o as t};

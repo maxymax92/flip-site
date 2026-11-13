@@ -1,0 +1,1 @@
+import{y as e}from"./utils-Dkosxi5G.js";import{o as t,r as n}from"./clsx-Bh4F3unD.js";var r=t(n(),1),i=new Map;function a(t,n,a=!0){let o=e();return r.useMemo(()=>{if(n!==void 0)return n;if(!o){if(a&&i.has(t))return i.get(t);try{let e=document.documentElement,n=getComputedStyle(e).getPropertyValue(t).trim()||void 0;return a&&i.set(t,n),n}catch{return}}},[t,n,o,a])}export{a as t};

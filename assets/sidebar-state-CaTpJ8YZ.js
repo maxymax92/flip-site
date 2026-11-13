@@ -1,0 +1,1 @@
+import{I as e,L as t}from"./navbar-D9Utwyxm.js";var n=`sidebar_state`,r=()=>e(n)!==`false`;function i(e){t(n,String(e))}export{r as n,i as t};

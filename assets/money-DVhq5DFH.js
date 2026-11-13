@@ -1,0 +1,1 @@
+import{V as e}from"./addresses-Blf_lzqJ.js";var t=`Not Set`,n=`Enter an amount in pounds, such as 185000.`,r=e=>e.toFixed(2),i=e=>e===void 0?void 0:Number(e),a=t=>e(Number(t)),o=e=>e===void 0?t:a(e);export{o as a,a as i,t as n,r as o,i as r,n as t};

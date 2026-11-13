@@ -1,0 +1,1 @@
+export{t as default}from"./code/git-commit-BAuDFD-1.js";

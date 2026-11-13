@@ -1,1 +1,0 @@
-import{p as e,tn as t}from"./button-CCgi8A-h.js";var n=t();function r({raised:t=!1,interactive:r=!1,className:i,children:a}){return(0,n.jsx)(`div`,{className:e(`rounded-xl border border-default bg-raised`,t&&`shadow-lg`,r&&`transition duration-base ease-out hover:-translate-y-1 hover:shadow-lg`,i),children:a})}export{r as t};

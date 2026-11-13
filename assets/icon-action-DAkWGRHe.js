@@ -1,0 +1,1 @@
+import{t as e}from"./button-BL3ZZtqL.js";import{t}from"./tooltip-BwyFyXe4.js";import{n}from"./clsx-Bh4F3unD.js";var r=n();function i({label:n,children:i,size:a=`sm`,variant:o=`ghost`,...s}){return(0,r.jsxs)(t,{children:[(0,r.jsx)(e,{isIconOnly:!0,"aria-label":n,size:a,variant:o,...s,children:i}),(0,r.jsx)(t.Content,{children:n})]})}export{i as t};

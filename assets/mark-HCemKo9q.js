@@ -1,0 +1,1 @@
+var e=`/assets/mark-Aw7WrNAp.svg`;export{e as t};
